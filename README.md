@@ -7,3 +7,8 @@
 - 📧 Felipe.lima.rocha@hotmail.com
 - 🚶 He/His pronouns
 
+<div> 
+
+<a href= "https://github.com/lecheryofc">
+<img height "180em" scr"https://github-readme-stats.vercel.app/api?username=felipelima&show_icons=true&theme=dracula&include_all_commits+true&count_private=true"/>
+<img height "180em" scr" https://github-readme-stats.vercel.app/api/top-langs/?username=felipelima&layout=compact&langs_count=16&theme=dracula"/>
